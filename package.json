@@ -1,0 +1,12 @@
+{
+  "name": "thai-html-infographics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable Thai 16:9 infographics in three styles, with a reusable Codex skill",
+  "scripts": {
+    "render": "node scripts/render-all.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thai HTML Infographics"
+  short_description: "Thai HTML infographics in 4:5 and 16:9, three visual styles"
+  default_prompt: "Use $thai-html-infographics to redesign the supplied content in style 2 at 16:9 using Noto Sans Thai and editable HTML."

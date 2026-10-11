@@ -1,0 +1,90 @@
+{
+  "aspect": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "styles": [
+    1,
+    2,
+    3
+  ],
+  "pages": [
+    {
+      "source": "sample/image-001.jpeg",
+      "source_sha256": "f8b2ccc1fe7867f15f42ad7e486cb264c075b4b7bd7241b7ca6d716061ff1c7f",
+      "title": "5 คีย์ลัดที่คนใช้คอมอาจยังไม่รู้",
+      "html": [
+        "outputs/16x9/style-1/image-001.html",
+        "outputs/16x9/style-2/image-001.html",
+        "outputs/16x9/style-3/image-001.html"
+      ]
+    },
+    {
+      "source": "sample/image-002.jpeg",
+      "source_sha256": "b54a1b334f3fb1a4a96131fb86f94613086327dda5564ebd9c612a68a3f0c110",
+      "title": "กู้แท็บที่เผลอปิด",
+      "html": [
+        "outputs/16x9/style-1/image-002.html",
+        "outputs/16x9/style-2/image-002.html",
+        "outputs/16x9/style-3/image-002.html"
+      ]
+    },
+    {
+      "source": "sample/image-003.jpeg",
+      "source_sha256": "4103a95b52be41e7613fc086cb4b980e847bd2e6a70a930c9acd6c32d8a8cab1",
+      "title": "ดูประวัติที่เคยคัดลอก",
+      "html": [
+        "outputs/16x9/style-1/image-003.html",
+        "outputs/16x9/style-2/image-003.html",
+        "outputs/16x9/style-3/image-003.html"
+      ]
+    },
+    {
+      "source": "sample/image-004.jpeg",
+      "source_sha256": "519221083597bc2dee4abb8e48e5af417104e98d05908ff5bad99dc4a7276377",
+      "title": "แคปหน้าจอเฉพาะส่วน",
+      "html": [
+        "outputs/16x9/style-1/image-004.html",
+        "outputs/16x9/style-2/image-004.html",
+        "outputs/16x9/style-3/image-004.html"
+      ]
+    },
+    {
+      "source": "sample/image-005.jpeg",
+      "source_sha256": "51b3add58354c35ee055122ea8e9a6d4eb185417640254a83124d145f54461ec",
+      "title": "ซ่อนทุกหน้าต่างทันที",
+      "html": [
+        "outputs/16x9/style-1/image-005.html",
+        "outputs/16x9/style-2/image-005.html",
+        "outputs/16x9/style-3/image-005.html"
+      ]
+    },
+    {
+      "source": "sample/image-006.jpeg",
+      "source_sha256": "cfadc30dcfa03f63c1cc1ad8d48aec2f32ca1c202728bdaa40b73cbb085d7b83",
+      "title": "พิมพ์ด้วยเสียงภาษาไทย",
+      "html": [
+        "outputs/16x9/style-1/image-006.html",
+        "outputs/16x9/style-2/image-006.html",
+        "outputs/16x9/style-3/image-006.html"
+      ]
+    },
+    {
+      "source": "sample/image-007.jpeg",
+      "source_sha256": "469d6a1fb5cbeb22d3418a732a6604adbef1aeed2afdc3d9cd0558a3891cf445",
+      "title": "ติดตาม NEXTO",
+      "html": [
+        "outputs/16x9/style-1/image-007.html",
+        "outputs/16x9/style-2/image-007.html",
+        "outputs/16x9/style-3/image-007.html"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "source": "sample/image-004.jpeg",
+      "before": "Ctrl + Shift + S",
+      "after": "Win + Shift + S",
+      "authority": "https://support.microsoft.com/en-us/windows/apps/use-snipping-tool-to-capture-screenshots"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "reports": [
+    {
+      "file": "image-001.html",
+      "title": "5 คีย์ลัดที่คนใช้คอมอาจยังไม่รู้ · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "600"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-002.html",
+      "title": "กู้แท็บที่เผลอปิด · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "500"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-003.html",
+      "title": "ดูประวัติที่เคยคัดลอก · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "600"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Inter",
+          "weight": "800"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "500"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-004.html",
+      "title": "แคปหน้าจอเฉพาะส่วน · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "500"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-005.html",
+      "title": "ซ่อนทุกหน้าต่างทันที · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "500"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-006.html",
+      "title": "พิมพ์ด้วยเสียงภาษาไทย · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "500"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    },
+    {
+      "file": "image-007.html",
+      "title": "ติดตาม NEXTO · NEXTO · 16:9",
+      "width": 1920,
+      "height": 1080,
+      "artboardOverflow": [],
+      "textBoxOverflow": [],
+      "failedImages": [],
+      "loadedFonts": [
+        {
+          "family": "Inter",
+          "weight": "400"
+        },
+        {
+          "family": "Inter",
+          "weight": "500"
+        },
+        {
+          "family": "Inter",
+          "weight": "700"
+        },
+        {
+          "family": "Inter",
+          "weight": "800"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "400"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "600"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "700"
+        },
+        {
+          "family": "Noto Sans Thai",
+          "weight": "800"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
